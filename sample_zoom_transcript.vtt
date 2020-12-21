@@ -1,0 +1,870 @@
+WEBVTT
+
+1
+00:03:27.120 --> 00:03:36.240
+Product Manager: Everyone just as a preface and recording this just testing out a zoom feature. There's no real reason Jackson happy to turn it off.
+
+2
+00:03:41.010 --> 00:03:41.910
+Product Manager: Little experiment here.
+
+3
+00:04:20.760 --> 00:04:24.870
+Product Manager: While we wait for your code and Nestor. I don't know if you saw on Slack, but
+
+4
+00:04:25.890 --> 00:04:31.320
+Product Manager: We should have a creator license where you today. I'm just waiting for happy to give me the money to pay for it.
+
+5
+00:04:32.700 --> 00:04:36.840
+Product Manager: Will you be building more in Tableau minutes
+
+6
+00:04:37.350 --> 00:04:46.800
+Front-End Dev: Sounds good. I didn't have a question. Um, this to workbooks or folders to one development and one customer
+
+7
+00:04:48.090 --> 00:04:49.950
+Front-End Dev: Which is the one that I'm supposed to be editing.
+
+8
+00:04:54.780 --> 00:04:56.100
+Back-End Dev: I think for your task.
+
+9
+00:04:57.270 --> 00:05:03.450
+Back-End Dev: I just published a new version and test publish, you should. Oh wait, I think I have to give you permission for that.
+
+10
+00:05:04.950 --> 00:05:08.730
+Back-End Dev: So you have to take that as a base to make your changes on
+
+11
+00:05:10.800 --> 00:05:11.940
+Front-End Dev: The test publish
+
+12
+00:05:12.540 --> 00:05:13.620
+Back-End Dev: Yeah. Do you see it on
+
+13
+00:05:16.140 --> 00:05:19.320
+Front-End Dev: Um, no, but I can talk to you offline about it.
+
+14
+00:05:27.360 --> 00:05:27.840
+Product Manager: Alright.
+
+15
+00:05:28.860 --> 00:05:31.950
+Product Manager: Let's get this party started. I'm going to do a share screen here.
+
+16
+00:05:33.540 --> 00:05:35.760
+Product Manager: And we'll start with OKRs, and then
+
+17
+00:05:37.500 --> 00:05:40.470
+Product Manager: Move right into sales pipeline and product.
+
+18
+00:05:48.780 --> 00:05:54.120
+Product Manager: So for everyone who was at product council or saw one of my many emails yesterday. Our OKRs,
+
+19
+00:05:54.810 --> 00:06:06.750
+Product Manager: Pop up here. We're doing pretty well in terms of the pipeline and weekly usage. And of course, there's a number of demos going on right now. So I think we're at six companies by my account that are evaluating
+
+20
+00:06:08.850 --> 00:06:14.280
+Product Manager: So hopefully will land 280 $6,000 worth of revenue this week.
+
+21
+00:06:15.450 --> 00:06:22.980
+Product Manager: Sales1 Sales2 SalesLead any, anything you want to update on those demos going on right now are those prospects.
+
+22
+00:06:23.970 --> 00:06:27.540
+Sales 1: Are those prospects listed here. If so, can you scroll up
+
+23
+00:06:28.050 --> 00:06:36.840
+Product Manager: They're not listed here. But I've actually just started trying to keep track for happy asked me about this every day. So just trying to keep track for myself. Okay.
+
+24
+00:06:39.000 --> 00:06:50.370
+Sales 1: OK, Prospect1, I should have an update from them this week followed up Friday haven't got a response yet, but I think he was out of office should have an update from those folks this week.
+
+25
+00:06:52.350 --> 00:07:11.700
+Sales 1: Necessarily waters. We did a pitch with the users decision makers last thurs last Friday and it went well. Overall, they're a little mark your towards engage, but they see the value and insight as well. So hopefully
+
+26
+00:07:12.780 --> 00:07:15.660
+Sales 1: Making that a package deal and then
+
+27
+00:07:16.800 --> 00:07:21.270
+Sales 1: That should be that's it on my side. I'm not sure if
+
+28
+00:07:21.780 --> 00:07:25.680
+Sales Lead: The short answer should be PM that you have the list captured
+
+29
+00:07:27.090 --> 00:07:31.050
+Sales Lead: Down to I would say the nationally water. Those are all
+
+30
+00:07:32.070 --> 00:07:35.190
+Sales Lead: Potential to close this quarter.
+
+31
+00:07:36.600 --> 00:07:37.080
+Oh, cool.
+
+32
+00:07:39.930 --> 00:07:40.710
+Product Manager: That would be great.
+
+33
+00:07:42.450 --> 00:07:44.520
+Sales Lead: So 246 of them.
+
+34
+00:07:45.000 --> 00:07:47.700
+Product Manager: Yeah, I mean, that would get us to 620 right
+
+35
+00:07:49.560 --> 00:07:57.450
+Sales Lead: Yeah but potential to close this quarter does not mean close this quarter. So I would put Prospect1, probably at the highest likelihood, I would put fusion up there.
+
+36
+00:07:58.500 --> 00:08:09.630
+Sales Lead: I would put Prospect2 up there that like even if it's like a 50% chance to close this quarter. There's always a chance that you lose it. But there's also maybe goes to Q4
+
+37
+00:08:12.060 --> 00:08:12.450
+Sales Lead: Cool.
+
+38
+00:08:18.000 --> 00:08:21.330
+Product Manager: Alright, so let's jump into insights projects.
+
+39
+00:08:22.650 --> 00:08:30.060
+Product Manager: So I'm going to minimize inbox and we'll come back to that at the end. But in terms of development, actually, as you know, Client1.
+
+40
+00:08:31.140 --> 00:08:33.120
+Product Manager: Hang up, bear with me for just a second.
+
+41
+00:08:58.950 --> 00:09:11.640
+Product Manager: Okay, so in terms of projects rebels done so I'm just gonna market complete there's no further work needed on it and it's AM you it's live right everything's been set to
+
+42
+00:09:12.930 --> 00:09:13.380
+Product Manager: Rebel
+
+43
+00:09:13.770 --> 00:09:17.460
+Product Manager: Correct any initial feedback problem or any response.
+
+44
+00:09:18.180 --> 00:09:22.320
+Account Manager: No, but they finally gave me a time to meet with them. So, so when
+
+45
+00:09:26.220 --> 00:09:33.420
+Product Manager: What's currently going on in development, we've got generic beer and liquor demo. So this should basically be just the go to source.
+
+46
+00:09:33.900 --> 00:09:40.500
+Product Manager: For sales to basically any brand and these categories should require any custom work after this
+
+47
+00:09:41.130 --> 00:09:48.870
+Product Manager: And then just one's already started working on the two standard store segments. She's got some change size recommendations from her feasibility analysis.
+
+48
+00:09:49.290 --> 00:09:58.140
+Product Manager: And so there's some work going on there and then front-ends jumping in gamely on CCP CPU and so there's some UI updates that he's working down
+
+49
+00:10:00.060 --> 00:10:08.010
+Product Manager: So that's everything we've locked in for committed and we're going to push through. So just kind of pause there if there any questions about any of those three projects.
+
+50
+00:10:15.330 --> 00:10:19.590
+Back-End Dev: For this segment. Are we doing the state voice also
+
+51
+00:10:20.790 --> 00:10:25.410
+Product Manager: That's the second one. And I think there's a feasibility ticket. Yeah, you. Is that right,
+
+52
+00:10:26.700 --> 00:10:33.390
+Back-End Dev: Oh yeah, I think we did feasibility on board store chain and state region state so
+
+53
+00:10:34.650 --> 00:10:40.800
+Product Manager: I, yeah, I just didn't see that in JIRA. So yeah, that's great. Any, I guess, any takeaways from what you've seen so far.
+
+54
+00:10:42.720 --> 00:10:48.210
+Back-End Dev: I think board. The board. They approached us look good to me. I guess it's us other finalists.
+
+55
+00:10:53.640 --> 00:11:03.870
+Product Manager: Alright, in terms of what's next. A lot of the insights is triage stuff is coming up. And so we've got a quick prototype or a bare bones prototype of the benchmark dashboard.
+
+56
+00:11:04.440 --> 00:11:15.060
+Product Manager: And I can share that out with people. I've been getting some initial feedback from the sales team in Carnegie and I have taken a look to see, like what we think is feasible and easy.
+
+57
+00:11:16.380 --> 00:11:19.470
+Product Manager: This would be the main landing screen for insights is triage.
+
+58
+00:11:20.820 --> 00:11:35.430
+Product Manager: And then after that we've prioritized the distribution dashboard Dana's got a mock up of that right now. And so she's just doing a quick iteration. And again, I'll put that she encouraged me to talk about how to build that out.
+
+59
+00:11:37.410 --> 00:11:45.180
+Product Manager: And then I've moved up this new one on here distribution leads list and this is as a result of what Prospect1's most especially interested in
+
+60
+00:11:45.870 --> 00:11:57.720
+Product Manager: And so ds's actually knocking that up today. So hopefully we'll have the ability to kind of move all three of these into the next or at least have them ready to be picked up for the next sprint depending on capacity.
+
+61
+00:12:03.720 --> 00:12:11.730
+Product Manager: Anything missing. I'm not going to go through the whole list after that because I think, well, this is kind of will. Will cap out in the next week, but anything
+
+62
+00:12:12.270 --> 00:12:20.040
+Product Manager: SalesLead MarketingLead any anybody wants to raise their hand and say, hey, this should be higher up. Or actually, we don't need that new one.
+
+63
+00:12:22.530 --> 00:12:39.390
+Account Manager: I have one that is kind of pending so if next week we're talking to Client1 and showing them the new report if they are going to continue their contract. How quickly can we spin up the pricing report into a dashboard for them.
+
+64
+00:12:45.810 --> 00:12:48.810
+Product Manager: Here as new some perfect segue.
+
+65
+00:12:51.510 --> 00:12:51.840
+Product Manager: It.
+
+66
+00:12:52.860 --> 00:13:03.330
+Product Manager: I'd say, Geez ones built the query behind it. And so it's a matter of getting that into tablo and making it interactive will, in terms of complexity. I'll defer to what card it thinks about it.
+
+67
+00:13:11.160 --> 00:13:18.540
+Back-End Dev: Yeah, I think we might have to do some feasibility to see how how the graph looks like for every product of apple
+
+68
+00:13:19.110 --> 00:13:28.380
+Back-End Dev: Because we do, we chose the best one, and it looked good. So we might have to understand how it probably would look and identify possible anomalies.
+
+69
+00:13:28.890 --> 00:13:38.580
+Back-End Dev: And fix the data side. And once that is ready for all the UPC I guess it's fairly simple to put it on tablo because we have the mark this identity.
+
+70
+00:13:40.830 --> 00:13:46.710
+Product Manager: Yeah, and not just UPC but stores, because it's a manual outlier removals were
+
+71
+00:13:47.160 --> 00:13:50.010
+Product Manager: Like charging 20 cents and that was clearly wrong.
+
+72
+00:13:54.240 --> 00:14:06.570
+Product Manager: Yeah, I think it's very doable. AM I like we can keep it in our inbox until we hear back from them. And then if it's like something they're excited about. We can put it at the top of our list. Okay, good.
+
+73
+00:14:06.690 --> 00:14:14.010
+Account Manager: All right, ideally, I want to handle that conversation. Next week is not directly ask them like, hey, are you guys staying like bring up the issue.
+
+74
+00:14:14.340 --> 00:14:21.930
+Account Manager: But if they like the report and don't have very many changes, it would be great to go back to them and say, if you guys like this and we have all systems go like
+
+75
+00:14:22.500 --> 00:14:33.360
+Account Manager: We should be able to get this over to you in the next month or so or like, give them a decent time frame and then come back to them in a few days with like a exact time frame obviously buffering.
+
+76
+00:14:34.500 --> 00:14:44.940
+Account Manager: For us doing all this work, but that way if they're like oh yeah that sounds great mid September is perfect or October like that will give us indication like that they aren't going to be staying with us.
+
+77
+00:14:46.740 --> 00:14:47.550
+Account Manager: If that makes sense.
+
+78
+00:14:48.390 --> 00:14:55.410
+Product Manager: Yeah, I think the only thing that might Trump it in terms of priority is if Prospect1 signs and we need to get this leads list of them pretty quick.
+
+79
+00:14:57.150 --> 00:15:02.040
+Product Manager: There's like a bare bones version of this leads list is like a CSV report like outside of tablo
+
+80
+00:15:03.510 --> 00:15:09.390
+Product Manager: That SalesLead and I have talked about at least. And so we might want to prioritize that over
+
+81
+00:15:11.460 --> 00:15:15.630
+Product Manager: The pricing report for Client1, if we're sure that Client1 is going to stay
+
+82
+00:15:15.900 --> 00:15:16.290
+Yeah.
+
+83
+00:15:17.760 --> 00:15:23.010
+Product Manager: But I don't think September end of September is unreasonable, even if we had to do both.
+
+84
+00:15:24.390 --> 00:15:30.540
+Account Manager: Okay, I can give them like a loose time and then obviously, I'll confirm with our team on a
+
+85
+00:15:30.930 --> 00:15:34.470
+Product Manager: Just say like early or so that way they have to stay
+
+86
+00:15:35.730 --> 00:15:36.780
+Account Manager: Up 2022
+
+87
+00:15:39.840 --> 00:15:54.270
+Account Manager: Says john you also just reminded me of Prospect1. I talked to OpsLead this morning and Prospect3 is going. It sounds like to be getting insights as well. So that will add another build to this, but I do not have the details enough to tell you where it should be slotted
+
+88
+00:15:56.700 --> 00:15:57.450
+Account Manager: But just something
+
+89
+00:15:57.570 --> 00:15:59.160
+Account Manager: Yeah, if you keep on your list.
+
+90
+00:16:00.060 --> 00:16:03.450
+Back-End Dev: So, so should we prioritize
+
+91
+00:16:04.710 --> 00:16:07.380
+Back-End Dev: Cigarettes category that will demo for this.
+
+92
+00:16:07.530 --> 00:16:25.080
+Account Manager: I did get clarification on that and Prospect3 only has around like 10 products and then they are specifically looking at a couple other competitors and they were going to export something from Nielsen to give to OpsLead. So we would have all the pieces that they would need for their dashboards.
+
+93
+00:16:28.620 --> 00:16:35.130
+Product Manager: But it would be a custom built, we wouldn't be able to, it looks like building it for Prospect3 would unlock it for anyone else necessarily
+
+94
+00:16:36.090 --> 00:16:49.530
+Design: But um if Prospect3 that is going to be live on the enterprise app with engage is going to want insights that would mean that we have to have inside some enterprise app to go live with them for insights. Right.
+
+95
+00:16:50.700 --> 00:16:56.010
+Product Manager: I don't think so. As long as they're fine. Having the enterprise app for engage and then they have to pop open a tab little leg.
+
+96
+00:17:01.980 --> 00:17:02.310
+Design: Back.
+
+97
+00:17:02.340 --> 00:17:09.060
+Account Manager: Yeah, I don't think that's a great customer experience. But if we spent up insights for them during the pilot, we can
+
+98
+00:17:10.110 --> 00:17:11.370
+Account Manager: Probably mentioned that
+
+99
+00:17:11.880 --> 00:17:26.760
+Design: If just something to think about in terms of priority, like, in addition to getting them a dashboard ready, we might want to make sure we can put it in the enterprise that I didn't know the timing might lineup but PM just something to think about know
+
+100
+00:17:27.600 --> 00:17:42.120
+Product Manager: We've got the enterprise app pretty far down here in terms of priority and it's blocked, but until we do to migrate to Tableau Server, which is a pretty big asked, so I'm a little wary of kind of pulling these to the front of the list, because it would mean delaying a lot of other
+
+101
+00:17:43.230 --> 00:17:43.440
+Back-End Dev: So,
+
+102
+00:17:43.500 --> 00:17:44.610
+Back-End Dev: Yeah, actually.
+
+103
+00:17:45.960 --> 00:18:01.590
+Back-End Dev: Yeah, I think the tablet server. I'm doing some research to speak and the sprint and probably we can do to report as the first priority to move to have your server and tested on it and yeah, that way we can do an end to end.
+
+104
+00:18:03.120 --> 00:18:21.600
+Back-End Dev: From tablo development till the front end part of insights and advice app for June and see how it works. And then probably we can slowly move everything else like AC DC wonderful to server Tableau Server if if we're proceeding with the insights module.
+
+105
+00:18:26.580 --> 00:18:36.270
+Product Manager: So you're saying we build a tablo dashboards using or sorry, the Prospect3 dashboards using Tableau Server, would they necessarily it's still be in tablo though versus the enterprise app.
+
+106
+00:18:36.870 --> 00:18:43.920
+Back-End Dev: Know we can we not wait for our new server to set up, we can continue to work on tablet dashboard and push it on tablo online.
+
+107
+00:18:44.370 --> 00:19:00.750
+Back-End Dev: But when the server is ready. I can ask the first migration, I can migrate over to server so that front end team can integrate a container app for tool so that eventually to have both engage in their insights on the container.
+
+108
+00:19:03.360 --> 00:19:06.780
+Back-End Dev: But only then it will slowly migrate everything else.
+
+109
+00:19:09.690 --> 00:19:13.560
+Product Manager: So maybe like our test case of getting this flow right and then we can move everything
+
+110
+00:19:14.760 --> 00:19:19.230
+Back-End Dev: Yeah. Ideally I would have wanted to do some other one as a test case but
+
+111
+00:19:21.300 --> 00:19:23.160
+Product Manager: Rebecca, what's the timing on July 30
+
+112
+00:19:25.680 --> 00:19:26.880
+Design: Me for insight.
+
+113
+00:19:28.230 --> 00:19:29.550
+Product Manager: Engage whichever one
+
+114
+00:19:29.880 --> 00:19:40.290
+Design: Or engage. I mean, we're starting to hopped in 817 so but they're going to get access October to engage up
+
+115
+00:19:41.670 --> 00:19:45.240
+Design: So they won't see the enterprise up till October.
+
+116
+00:19:48.000 --> 00:20:03.630
+Account Manager: Yeah, there's also OpsLead mentioned like they're really easy to work with and someone today had mentioned like they don't need insights for the pilot, potentially, but if they sign the full contract. So there's a lot of up near details that I think are so getting locked down around that.
+
+117
+00:20:05.520 --> 00:20:09.030
+Product Manager: How much money does insights, get out of this deal down towards or
+
+118
+00:20:10.530 --> 00:20:12.720
+Account Manager: If you get it built for. So I'll give you all of it.
+
+119
+00:20:15.360 --> 00:20:18.120
+Design: Kind of sounding like a Q4 thing but
+
+120
+00:20:19.530 --> 00:20:20.160
+Design: Sure.
+
+121
+00:20:23.760 --> 00:20:24.990
+Account Manager: Like September 30
+
+122
+00:20:26.970 --> 00:20:27.300
+Product Manager: Yeah.
+
+123
+00:20:30.690 --> 00:20:40.620
+Product Manager: So I'll move this up. Oh, I'll keep it in the inbox, just because it doesn't sound like we have a clear idea and when, how high of a priority. This is or is this like a lock in thing that we need
+
+124
+00:20:48.270 --> 00:20:50.070
+Product Manager: Oh, check with happier. Yes.
+
+125
+00:20:51.030 --> 00:20:53.130
+Design: Oh, were you trying to me either. You're trying to AM
+
+126
+00:20:53.460 --> 00:20:55.110
+Design: AM Oh okay, good.
+
+127
+00:20:58.980 --> 00:21:00.270
+Design: I don't know. AM heard
+
+128
+00:21:05.460 --> 00:21:06.300
+Design: She's muted.
+
+129
+00:21:12.450 --> 00:21:13.320
+Account Manager: Can you guys hear me now.
+
+130
+00:21:13.680 --> 00:21:17.310
+Account Manager: Yeah, okay. It keeps switching between my laptop and my screen.
+
+131
+00:21:18.450 --> 00:21:24.120
+Account Manager: I think it's a definite thing that's happening. I think the logistics around when they need it are up for debate still
+
+132
+00:21:24.540 --> 00:21:33.180
+Account Manager: And what its gonna look like between like giving them the pilot region versus national if they choose to go national so there's a lot of details in there that need to be sorted out.
+
+133
+00:21:34.170 --> 00:21:44.730
+Product Manager: I'll just drag them under the leads list and keep my fingers crossed for Prospect1 now where we keep that prioritized and then I'll do the same with price monitoring. I think it's a
+
+134
+00:21:46.350 --> 00:21:50.880
+Product Manager: We can next week. Talk about jumping it up if the feedback from our goals is positive.
+
+135
+00:21:53.910 --> 00:21:55.530
+Product Manager: So I'm
+
+136
+00:21:56.880 --> 00:22:04.080
+Product Manager: The other one, we're talking about for the inbox. This goes to Sales2 is we kind of have this, this just a placeholder on whether
+
+137
+00:22:04.920 --> 00:22:15.750
+Product Manager: Liquor companies need to see that hyper localized understanding of what what counties and cities, they're allowed to sell it in convenience stores or whether they kind of just ignore it.
+
+138
+00:22:17.850 --> 00:22:23.520
+Product Manager: I know Prospect4, you're still evaluating so we weren't going to do this until they pay, but any, any feedback from them yet on this.
+
+139
+00:22:25.500 --> 00:22:29.520
+Sales 2: Nothing yet I meeting with them on Friday. So I'll not more than
+
+140
+00:22:31.020 --> 00:22:31.350
+Who
+
+141
+00:22:36.060 --> 00:22:39.390
+Product Manager: There's a couple other things on here that are further out.
+
+142
+00:22:40.560 --> 00:22:46.830
+Product Manager: They kind of rely on different parts of the product being built for insights history. So I'm just gonna leave them in here for the moment.
+
+143
+00:22:49.320 --> 00:22:49.710
+Right.
+
+144
+00:22:51.120 --> 00:23:07.680
+Product Manager: If there's anything that you know anyone from development, all the way through sales to marketing that you guys are want to suggest in here. I'm very much game if you just throw it in the US on a board or just slapping we can keep it as a conversation topic for this meeting.
+
+145
+00:23:09.390 --> 00:23:15.300
+Product Manager: They just put a couple words in the title that make it relevant or understandable and we can move from there.
+
+146
+00:23:19.470 --> 00:23:22.410
+Product Manager: Anything missing from the list that anyone wants to bring up right up
+
+147
+00:23:26.160 --> 00:23:28.860
+Product Manager: I'm especially thinking of Client2 and fusion.
+
+148
+00:23:32.310 --> 00:23:37.350
+Account Manager: ClientRep did send over additional pieces for Client2.
+
+149
+00:23:38.550 --> 00:23:42.180
+Account Manager: One is a hierarchy thing with since they have three
+
+150
+00:23:44.310 --> 00:23:50.580
+Account Manager: But at first pass both look larger than adding them into this sprint that's currently going
+
+151
+00:23:54.510 --> 00:23:55.800
+Product Manager: Me like a product hierarchy.
+
+152
+00:23:56.700 --> 00:24:04.320
+Account Manager: Know their geography hierarchy, they technically have three, but when we built the dashboards, we were working with Great Lakes only who only has two
+
+153
+00:24:05.790 --> 00:24:17.490
+Account Manager: So they right now have sales district and sales office, but they actually have a region and then ClientRep was looking to get a roll up view of how United is doing as a whole. So combining all the regions all together.
+
+154
+00:24:19.320 --> 00:24:31.740
+Account Manager: And sales offices and then he did send us over his product classification of what brands and manufacturers, they look at it in each category, which I think that's a lot more of scope work and probably additional conversations with ClientRep.
+
+155
+00:24:33.480 --> 00:24:34.860
+Account Manager: Before we'd put it on the roadmap.
+
+156
+00:24:35.880 --> 00:24:36.360
+Product Manager: Okay.
+
+157
+00:24:37.530 --> 00:24:40.890
+Product Manager: I'll keep the ghire paraphrasing here, but it doesn't sound like we're committing to
+
+158
+00:24:41.550 --> 00:24:45.360
+Account Manager: Know, the only thing I committed to is fixing the issue that's currently going on.
+
+159
+00:24:47.550 --> 00:24:48.420
+Product Manager: In science,
+
+160
+00:24:49.170 --> 00:24:55.590
+Back-End Dev: In the to KC region division and sales office. What is the purpose hierarchy.
+
+161
+00:24:57.840 --> 00:24:59.220
+Account Manager: Wait, say that again region.
+
+162
+00:24:59.730 --> 00:25:02.640
+Back-End Dev: I see sales office then division then region.
+
+163
+00:25:03.030 --> 00:25:16.740
+Account Manager: Oh divisions are called a district. Yeah, so they use in their current dashboards. They use division and sales office, but they actually have one higher which is called their region or yeah the region and they have three of those.
+
+164
+00:25:17.970 --> 00:25:26.130
+Account Manager: To East West and Central. So ClientRep is looking to get that to get the divisions rolled up to a region view.
+
+165
+00:25:28.710 --> 00:25:41.460
+Account Manager: And then the region view rolled up even higher into just how is united as a whole, doing like their share swing across the entire every single office versus like Prospect2 in the same region are saying their whole territory.
+
+166
+00:25:55.740 --> 00:25:57.720
+Product Manager: All right. Anything else last chance for the week.
+
+167
+00:25:59.160 --> 00:26:05.850
+Back-End Dev: I had one more questions about the Prospect5 can we use the bag of dashboard for Prospect5 demo.
+
+168
+00:26:10.080 --> 00:26:21.000
+Product Manager: So the way this is structured, I think, Sales2, correct me if I'm wrong. We need to get 30 new PCs loaded. So currently, their new PCs just existing UPC raw. So we'd have to support them over.
+
+169
+00:26:22.020 --> 00:26:31.710
+Product Manager: I don't think like, I think we could clean them and put them into master Deaton but their thing is our custom regions don't really work right now. And so they need to see the states.
+
+170
+00:26:32.340 --> 00:26:35.190
+Sales Lead: Well, they just don't sell product and their regions of the demo.
+
+171
+00:26:35.490 --> 00:26:35.820
+Right.
+
+172
+00:26:39.810 --> 00:26:43.620
+Product Manager: Anything else I'm missing on that. Sales2 any other changes liquid nice would need to see
+
+173
+00:26:47.100 --> 00:26:59.370
+Sales 2: Now that's about it. We're SalesLead. I talked to them last week. So we're kind of waiting for them to follow up on their next steps. And then we'll let you guys know like what that turn around a little look like
+
+174
+00:27:02.550 --> 00:27:15.270
+Back-End Dev: So once we roll out the store segment change into the pack though dashboard, we the dashboard can be used for liquid liquid is right, because by the time master budget and also different with the new PCs.
+
+175
+00:27:15.690 --> 00:27:19.980
+Product Manager: We just need to push over the new PCs. It'd be a pretty small change though. Yeah.
+
+176
+00:27:22.230 --> 00:27:42.600
+Sales 2: It's a good question. I just thought of PM and Back-End I noticed in the Prospect6 dashboard that their share swing view has the store count on it by segment by territory, but it is just on that view. I wanted. Is that something that
+
+177
+00:27:43.620 --> 00:27:49.020
+Sales 2: Will be standard or will be on all dashboards. I haven't seen on on any other ones yet.
+
+178
+00:27:51.690 --> 00:27:54.750
+Product Manager: We can make it standard. I think it's probably just a mistake.
+
+179
+00:27:55.920 --> 00:27:56.190
+Sales 2: Okay.
+
+180
+00:27:56.610 --> 00:27:57.990
+Product Manager: You want it removed.
+
+181
+00:27:58.410 --> 00:28:02.130
+Sales 2: No, I just wanted some consistency. Because when you order item rank, it's not there.
+
+182
+00:28:04.980 --> 00:28:09.540
+Sales 2: It's not a pressing issue. I just noticed it on one dashboard of all the ones I've looked at
+
+183
+00:28:11.400 --> 00:28:19.620
+Product Manager: Here your cardiac any concerns. If we were to show store count in a demo on each geo region like should we do that standard or should we not
+
+184
+00:28:23.700 --> 00:28:25.080
+Account Manager: Unlike the scoop most coverage, man.
+
+185
+00:28:25.410 --> 00:28:25.800
+Yeah.
+
+186
+00:28:26.910 --> 00:28:27.840
+Account Manager: Don't we already do that.
+
+187
+00:28:29.040 --> 00:28:30.990
+Product Manager: I started to be on like item rank and share screen.
+
+188
+00:28:31.830 --> 00:28:33.180
+Account Manager: Oh, like when they drop it down.
+
+189
+00:28:36.540 --> 00:28:41.730
+Account Manager: I don't see any issues with that we can take the functionality that we just pushed in Client1s and copy that over
+
+190
+00:28:42.120 --> 00:28:42.780
+Product Manager: Oh yeah we're good.
+
+191
+00:28:46.650 --> 00:28:51.780
+Account Manager: formatting is a pain in the ass and tablo you didn't give you any lines to make sure things are
+
+192
+00:28:52.530 --> 00:28:53.430
+Account Manager: lined up properly.
+
+193
+00:28:55.980 --> 00:28:57.390
+Product Manager: three rounds of do it right.
+
+194
+00:28:58.650 --> 00:29:03.060
+Account Manager: You can't copy and paste from tab to tabs. You have to re eyeball at every time.
+
+195
+00:29:04.260 --> 00:29:12.060
+Back-End Dev: I think, for this we can copy the format of the map and sharp spring to it. I think it's doable. That's fine. Yeah.
+
+196
+00:29:12.120 --> 00:29:17.130
+Product Manager: Maybe we just increase the scope for the standard store segments to include
+
+197
+00:29:18.840 --> 00:29:19.170
+Yeah.
+
+198
+00:29:25.140 --> 00:29:27.420
+Back-End Dev: For this I noticed there are
+
+199
+00:29:29.280 --> 00:29:47.400
+Back-End Dev: That start with the statewide. At least I noticed there are some states where we have only 10 stores. So when you're actually going that granular you might see a huge variance, like some states can show show 1020 and some will show like 800 and they all might come in the same region.
+
+200
+00:29:50.460 --> 00:29:50.850
+Back-End Dev: Yeah.
+
+201
+00:29:57.720 --> 00:30:01.170
+Product Manager: sales guys you're okay with that. Right. I think we've talked about this, but just confirming
+
+202
+00:30:02.400 --> 00:30:03.810
+Back-End Dev: Yeah, if you're showing numbers.
+
+203
+00:30:03.870 --> 00:30:05.010
+Back-End Dev: That they
+
+204
+00:30:06.180 --> 00:30:07.170
+Back-End Dev: Just want to get your feedback.
+
+205
+00:30:08.040 --> 00:30:10.830
+Sales 2: I mean, there's one territory in the demo with one store in it.
+
+206
+00:30:12.660 --> 00:30:13.980
+Sales 2: We've already been doing that.
+
+207
+00:30:24.330 --> 00:30:30.900
+Product Manager: SalesLead, you're really quiet, you're not asking for anything. You're not cutting anything. Are we doing everything right. Are we doing everything wrong.
+
+208
+00:30:33.960 --> 00:30:36.660
+Sales Lead: Well, I would say if you're ever on one extreme, that's about
+
+209
+00:30:47.040 --> 00:30:53.070
+Product Manager: Right. Any last chance for real this that any any new projects any new requests from clients.
+
+210
+00:30:55.290 --> 00:30:59.100
+Sales Lead: No, but by next week, we may have something for you. Really to diffusion
+
+211
+00:31:00.210 --> 00:31:00.570
+Product Manager: Tool.
+
+212
+00:31:02.460 --> 00:31:08.820
+Product Manager: Okay, so the two main changes or that I'm gonna keep my ear out for in the next week is this Prospect1's
+
+213
+00:31:09.600 --> 00:31:22.560
+Product Manager: will drive. How much of a priority deletes list is and how fast we need to get it alive and Client1 will do the same for the product price monitoring. So both of those could jump up if either company comes back as strongly enthusiastic.
+
+214
+00:31:25.350 --> 00:31:30.420
+Product Manager: And then AM all sync with happy just on the timing for the Prospect3 dashboard and whether it has to be an enterprise app.
+
+215
+00:31:35.160 --> 00:31:35.520
+Product Manager: Cool.
+
+216
+00:31:37.860 --> 00:31:38.910
+Product Manager: All right, thanks everyone.
+
+217
+00:31:39.870 --> 00:31:40.260
+Thank you.
+
